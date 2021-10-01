@@ -1,0 +1,31 @@
+* {
+	font-weight: bold;
+	font-family: "Monaco", "Times New Roman", sans-serif;
+	
+}
+
+h1 {
+	text-align: center;
+}
+
+body {
+	background-color: #007FFF;
+	font-size: 130%;
+}
+
+.imgmod {
+	height: 400px;
+	width: 600px;
+}
+
+.poutine {
+	color: gold;
+}
+
+.spag {
+	color: darkorange;
+}
+
+.baconegg {
+	color: 	#b30000;
+}
